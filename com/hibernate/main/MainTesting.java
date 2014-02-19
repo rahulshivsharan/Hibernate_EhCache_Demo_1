@@ -10,10 +10,7 @@ import org.hibernate.CacheMode;
 import org.hibernate.Query;
 import org.hibernate.Session;
 
-/**
- *
- * @author rs69421
- */
+
 public class MainTesting {
 
     private static void getCustomers() throws Exception {
