@@ -12,10 +12,7 @@ import javax.persistence.Table;
 import org.hibernate.annotations.Cache;
 import org.hibernate.annotations.CacheConcurrencyStrategy;
 
-/**
- *
- * @author rs69421
- */
+
 
 @Entity
 @Table(name = "customer")
